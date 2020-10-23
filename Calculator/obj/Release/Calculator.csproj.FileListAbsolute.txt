@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\bin\Release\Calculator.exe
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\obj\Release\Calculator.exe
+D:\VISUAL STUDIO PROJECTS\Calculator\Calculator\obj\Release\Calculator.pdb
