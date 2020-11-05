@@ -31,10 +31,41 @@ namespace Calculator
  
            string Right = FullString2.Substring(j, FullString2.Length-j);
            string Left = FullString2.Substring(0, j-1);
+            int RightF = int.Parse(Right);
+            int LeftF = int.Parse(Left);
 
+            int OutputVal=10;
 
+            switch (Operand)
+            {
+                case 1:
+                    if (Operand == "+")
+                    {
+                        OutputVal = LeftF + RightF;
+                    };
+                    break;
+                case 2:
+                    if (Operand == "-")
+                    {
+                        OutputVal = LeftF - RightF;
+                    };
+                    break;
+                case 3:
+                    if (Operand == "*")
+                    {
+                        OutputVal = LeftF * RightF;
+                    };
+                    break;
+                case 4:
+                    if (Operand == "/")
+                    {
+                        OutputVal = LeftF / RightF;
+                    };
+                    break;
 
+            }
 
+            label1.Text = OutputVal.ToString();
         }
     }
 }
