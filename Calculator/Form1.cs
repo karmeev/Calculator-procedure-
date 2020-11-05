@@ -28,12 +28,9 @@ namespace Calculator
                 Operand = FullString2.Substring(j, 1); 
                 j = j + 1;
             };
-
-
-            string Right, Left;
-            
-            Right = FullString2.Substring(j, FullString2.Length-j);
-            Left = FullString2.Substring(0, j-1);
+ 
+           string Right = FullString2.Substring(j, FullString2.Length-j);
+           string Left = FullString2.Substring(0, j-1);
 
 
 
