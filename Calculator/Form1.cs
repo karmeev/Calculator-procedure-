@@ -38,29 +38,17 @@ namespace Calculator
 
             switch (Operand)
             {
-                case 1:
-                    if (Operand == "+")
-                    {
+                case "+":
                         OutputVal = LeftF + RightF;
-                    };
                     break;
-                case 2:
-                    if (Operand == "-")
-                    {
+                case "-":
                         OutputVal = LeftF - RightF;
-                    };
                     break;
-                case 3:
-                    if (Operand == "*")
-                    {
+                case "*":
                         OutputVal = LeftF * RightF;
-                    };
                     break;
-                case 4:
-                    if (Operand == "/")
-                    {
+                case "/":
                         OutputVal = LeftF / RightF;
-                    };
                     break;
 
             }
